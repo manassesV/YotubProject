@@ -19,7 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LeitorQrActivity" />
+        <activity android:name=".LeitorQRCodeActivity" />
         <activity android:name=".VideActivity"></activity>
     </application>
 
